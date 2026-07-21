@@ -1,4 +1,5 @@
-<img width="2520" height="1440" alt="hatsunemikubanner" src="https://github.com/user-attachments/assets/527dfa29-6e42-4047-85fa-3768881f98b1" />
+<img width="2520" height="1440" alt="hatsunemikubanner" src="https://github.com/user-attachments/assets/31a7b41e-5f7e-4a5c-9017-dfadab88e8a5" />
+
 
 <img width="1600" height="120" alt="image" src="https://github.com/user-attachments/assets/7760f118-7424-43b8-bd2c-b4056a886257" />
 
