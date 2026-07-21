@@ -1,5 +1,8 @@
 <img width="2520" height="1440" alt="hatsunemikubanner" src="https://github.com/user-attachments/assets/527dfa29-6e42-4047-85fa-3768881f98b1" />
 
+<img width="1600" height="120" alt="image" src="https://github.com/user-attachments/assets/7760f118-7424-43b8-bd2c-b4056a886257" />
+
+
 
 <!--
 **bloomingdelilah/bloomingdelilah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
