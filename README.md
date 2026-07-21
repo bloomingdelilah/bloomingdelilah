@@ -1,4 +1,4 @@
-<img width="2227" height="2631" alt="hatsunemikubanner" src="https://github.com/user-attachments/assets/8b47120f-f7d6-48a0-b449-168ddd4aa76a" />
+<img width="2227" height="2631" alt="hatsunemikubanner" src="https://github.com/user-attachments/assets/90302354-ac13-4291-bbfa-f6deda996f4c" />
 
 
 
