@@ -1,6 +1,6 @@
 <img width="2520" height="1440" alt="hatsunemikubanner" src="https://github.com/user-attachments/assets/49e970ac-0759-4c44-bdc2-107096406683" />
 
-<img width="1600" height="120" alt="image" src="https://github.com/user-attachments/assets/7760f118-7424-43b8-bd2c-b4056a886257" />
+<img width="1600" height="120" alt="divider" src="https://github.com/user-attachments/assets/09b3d6cd-f815-47c6-ad0d-cf25e4c35d7d" />
 
 
 
