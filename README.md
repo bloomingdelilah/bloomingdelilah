@@ -1,4 +1,4 @@
-<img width="2533" height="1951" alt="kanabanner" src="https://github.com/user-attachments/assets/8fddb173-10a8-4755-9c29-5799f0177cf9" />
+<img width="1920" height="1479" alt="ezgif-26e4d8510b733f4b" src="https://github.com/user-attachments/assets/72626162-cca1-4f56-befa-30e86b6aa6aa" />
 
 
 
