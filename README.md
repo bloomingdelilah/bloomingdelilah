@@ -1,4 +1,4 @@
-<img width="1920" height="1479" alt="ezgif-26e4d8510b733f4b" src="https://github.com/user-attachments/assets/72626162-cca1-4f56-befa-30e86b6aa6aa" />
+<img width="4000" height="2000" alt="girlfriend banner" src="https://github.com/user-attachments/assets/dde1fe65-3d11-4305-8c57-8da4ed41ee85" />
 
 
 
