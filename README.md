@@ -11,7 +11,7 @@
 <img src="https://file.garden/arM-ydxjs_CNywb0/banner1b.png" alt="test" width="900"
 
 <p align="center">
-<img width="837" height="448" alt="gf thing" src="https://github.com/user-attachments/assets/cfe1be17-0473-4d76-854c-1dfe10cfd24b" />
+<img width="500" height="250" alt="gf thing" src="https://github.com/user-attachments/assets/cfe1be17-0473-4d76-854c-1dfe10cfd24b" />
 
 <p align="center">
 <img src="https://file.garden/arM-ydxjs_CNywb0/ioreiroeiro.gif" alt="test" width="800"
